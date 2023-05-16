@@ -2,7 +2,7 @@
 
 > A simple soundboard, made for one of the projects in the Front End Development Libraries freeCodeCamp course
 
-### ✨ [Demo](https://codepen.io/musaab03/pen/gOBGzzE)
+### ✨ [Visit Live Site](https://codepen.io/musaab03/pen/gOBGzzE)
 
 ![image](https://user-images.githubusercontent.com/103457332/235786972-b5fa1a2a-34fe-4549-b286-22c1326f853d.png)
 
